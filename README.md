@@ -28,4 +28,4 @@ def circulate():
 ## Output:
 ![label](./circulatenvar.png)
 ## Result:
-Thus the program for circulating n variables was successfully executed
+Thus the program for circulating n variables was successfully executed.
