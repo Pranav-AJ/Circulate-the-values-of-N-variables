@@ -16,7 +16,7 @@ Using the slicing concept rotate the list
 ### Step 5: 
 Print the list after circulating it
 ### Step 6: 
-End the program
+End the program.
 ## Program:
 ```python
 #Program to circulate N values.
