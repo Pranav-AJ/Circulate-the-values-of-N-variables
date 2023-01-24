@@ -29,6 +29,6 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![label](./circulatenvar.png)
+![label](./circulate.png)
 ## Result:
 Thus the program for circulating n variables was successfully executed.
